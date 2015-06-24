@@ -2,4 +2,4 @@ This is sample document created for practice the commands
 This is adding to commit to the development.
 i m the best
 my first file
-changing the file practicing merge:
+changing the file practicing merge
