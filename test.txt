@@ -3,13 +3,10 @@ This is adding to commit to the development.
 i m the best
 my first file
 changing the file practicing merge
-
 working for release version
 This is new commit for sourabh
 This is for shriraj reviewing merging
-<<<<<<< HEAD
 This is change from test2
-=======
 checking development branch local
 To check the diff command
->>>>>>> d34d3ec04e10440dd12da3814e36ead78973d456
+
