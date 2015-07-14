@@ -1,12 +1,11 @@
 This is sample document created for practice the commands
 This is adding to commit to the development.
-i m the best
 my first file
 changing the file practicing merge
+File has been modified by Jasmeet Tuteja.
 working for release version
 This is new commit for sourabh
 This is for shriraj reviewing merging
-This is change from test2
-checking development branch local
-To check the diff command
+see the merging 
+This is for practice.
 
