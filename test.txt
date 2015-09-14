@@ -7,3 +7,6 @@ changing the file practicing merge
 working for release version
 This is new commit for sourabh
 This is for shriraj reviewing merging
+
+
+Lets try this out for the merging in Git SourceTree :)
