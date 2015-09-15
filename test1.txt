@@ -1,2 +1,3 @@
 new file source tree merge practise
 changed from development brahnch and merged with master banch
+change for creating local working copy from feature1 branch
