@@ -19,4 +19,8 @@ This is for practice
 
 practise for source tree
 
+<<<<<<< HEAD
 line was added by demo developer
+=======
+adding the line into practice foleder
+>>>>>>> 565c146b1a08dbe8974a8fc2f6d17f99fc573f98
