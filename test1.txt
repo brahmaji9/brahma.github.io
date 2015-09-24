@@ -1,2 +1,2 @@
 new file source tree merge practise
-changed from development brahnch and merged with master banch
+changed from development brahnch and merged 
