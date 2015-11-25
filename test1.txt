@@ -2,3 +2,7 @@ new file source tree merge practise
 changed from development brahnch and merged with master banch
 change for creating local working copy from feature1 branch
 changed in local feature1 bracnh
+line has been added for demo
+modification for merging with master branch
+changed from development brahnch and merged
+finally changes are done according to feature1 branch requirement
